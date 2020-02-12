@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0d06897c-71b5-49e9-adee-8a8eb9cfb476" name="Default Changelist" comment="" />
+    <list default="true" id="0d06897c-71b5-49e9-adee-8a8eb9cfb476" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/课件/撩课-SSH整合.xmind" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/课件/撩课-Spring-Aop.xmind" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/课件/撩课-Spring-jdbc模板.xmind" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/课件/撩课-Spring.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/课件/撩课-Spring.xmind" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learn_Spring_stage3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Learn_Spring_stage3.iml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,7 +25,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1XgosbicS6CaCE5tvItWKfeHnu6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -28,7 +39,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/web/WEB-INF/lib" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -41,6 +52,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="H:\IDEA_workspace\Learn_Spring_stage3" />
       <recent name="H:\IDEA_workspace\Learn_Spring_stage3\resource" />
       <recent name="H:\IDEA_workspace\Learn_Spring_stage3\web\WEB-INF" />
     </key>
@@ -279,8 +291,8 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Tomcat Server.Tomcat 9.0.30" />
       <item itemvalue="JUnit.UserTest.test" />
+      <item itemvalue="Tomcat Server.Tomcat 9.0.30" />
     </list>
     <recent_temporary>
       <list>
@@ -311,6 +323,9 @@
       <option name="presentableId" value="Default" />
       <updated>1581477305668</updated>
       <workItem from="1581477309216" duration="1959000" />
+      <workItem from="1581484213130" duration="8000" />
+      <workItem from="1581484222743" duration="3000" />
+      <workItem from="1581484253946" duration="1000" />
     </task>
     <servers />
   </component>
