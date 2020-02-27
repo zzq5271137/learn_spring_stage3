@@ -9,5 +9,4 @@ public class UserDaoImpl implements IUserDao {
     public void delete() {
         System.out.println("UserDao从数据库删除记录...");
     }
-
 }
